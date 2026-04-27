@@ -1,1 +1,5 @@
-https://raw.githubusercontent.com/Vidit6969/image/refs/heads/main/lg.jpg
+body {
+  background-image: url('https://raw.githubusercontent.com/Vidit6969/image/refs/heads/main/lg.jpg');
+  background-size: cover;
+  background-position: center;
+}
